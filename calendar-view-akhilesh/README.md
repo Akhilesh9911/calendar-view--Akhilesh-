@@ -63,5 +63,5 @@ Akhilesh Chitare
 📧 akhileshchitare04@gmail.com
 
 🔗 LinkedIn
+https://www.linkedin.com/in/akhilesh00/
 
-🌐 Live Demo
